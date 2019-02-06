@@ -1,4 +1,8 @@
 # team_bad_at_git-workflow
-learned how to upstream the local repository 
-prob going to learn a bunch today
-learned about posting issue 
+
+### Things we learned:
+
+- How to fork a respository
+- How to add an upstream remote
+- How to create issues
+- The difference between the original repo and the forked repo
